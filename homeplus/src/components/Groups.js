@@ -58,6 +58,9 @@ const Groups = () => {
 
     return (
         <div className="container">
+
+        <div className="image image-group"></div>
+
           <div className="container">
           <h3 className="group-heading">Create group:</h3>
             <input

@@ -41,6 +41,9 @@ const Signup = () => {
 
     return (
         <div className="container">
+
+        <div className="image image-login"></div>
+
           <div className="login-container container">
             <h2>Get Started</h2>
             <br/>

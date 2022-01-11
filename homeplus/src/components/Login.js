@@ -43,6 +43,9 @@ function Login() {
 
     return (
         <div className="container">
+
+        <div className="image image-login"></div>
+
             <div className="login-container container">
               <h2>Welcome back. <br/> You have been missed!</h2>
                 <br/> 

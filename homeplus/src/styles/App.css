@@ -206,13 +206,24 @@
     max-width: 90vw;
     color: rgb(75, 75, 75);
 }
-.image-home{
-    background-image: url(../img/pplHome.png);
+
+.image{
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover; 
     width: 350px;
     height: 370px;
+}
+.image-home{
+    background-image: url(../img/pplHome.png);
+}
+.image-login{
+    background-image: url(../img/pplLogin.png);
+}
+.image-group{
+    background-image: url(../img/pplGroup.png);
+    width: 350px;
+    height: 280px;
 }
 
 /* Login Page */
@@ -222,7 +233,7 @@
     position: fixed;
     bottom: 0;
     background-color: var(--grey);
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 50px;
     border-radius: 25px 25px 0 0 ;
     box-shadow: 4px -3px 6px #c3c3c3;
