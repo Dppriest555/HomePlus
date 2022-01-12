@@ -8,7 +8,7 @@ function Home() {
             <p>Keeping track of your daily tasks has never been easier.</p>
 
             <div className='container'>
-                <div className='image-home'></div>
+                <div className='image image-home'></div>
                     <div className='container'>
                     <Link to='/login' ><button className='btn'>Log in</button></Link>
                     <Link to='/signup' ><button className='btn btn-green'>Sign up</button></Link>
